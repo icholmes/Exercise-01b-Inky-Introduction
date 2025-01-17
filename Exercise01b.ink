@@ -77,6 +77,22 @@ The trapdoor needs a key to unlock it.
 
 === trapdoor_open ===
 You dive into the pool and unlock the trapdoor. The pressure released by the door sucks you into it, pulling you into a large vat of murky, quickly-rising liquid.
+There is an exit hatch to your left and to your right.
+Quickly. Choose an exit.
+* [Go left] -> left_exit
+* [Go right] -> right_exit
+-> END
+
+=== left_exit ===
+You exit left, and with a swift wave of liquid, you are brought forth into a room in which there is no light.
+Somewhere beyond you, you can hear what sounds like faint, struggled breathing. 
+You are not alone.
+-> END
+
+=== right_exit ===
+You exit right, and with a swift wave of liquid, you are carried into a fully illuminated room with sleek, tiled floor and a sterile smell in the air.
+In each of the four corners of the room, surveillance cameras. No doors in sight.
+You are alone. 
 -> END
 
 === right_tunnel_inspection ===

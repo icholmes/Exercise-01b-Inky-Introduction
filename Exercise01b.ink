@@ -55,7 +55,7 @@ Who knows how long they've been here.
 === west_tunnel_lit ===
 There is a clearing with two tunnels in front of you. 
 A low hum emanates from the tunnel on the left. The tunnel on the right emits a foul-smelling odor. 
-On the wall bewteen the two tunnels are small inscriptions carved into the stone.
+On the wall between the two tunnels are small inscriptions carved into the stone.
 + [Inspect the left tunnel] -> left_tunnel_inspection
 + [Inspect the right tunnel] -> right_tunnel_inspection
 + [Inspect inscriptions] -> inscription_inspection
